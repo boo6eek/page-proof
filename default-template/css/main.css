@@ -1,0 +1,79 @@
+html, body {
+    font-family: HelveticaNeueCyr-Light;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    min-width: 320px;
+    position: relative;
+}
+h1, h2, h3, h4, h5 {
+    font-family: HelveticaNeueCyr-Light;
+}
+a {
+    color: #000;
+    text-decoration: none;
+}
+a:focus, a:active, button:focus, button:active, input:focus, textarea:focus, select:focus {
+    outline: none;
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: #8c31b3;
+    text-decoration: none;
+}
+ol, ul {
+    padding: 0;
+}
+.loader {
+    background: none repeat scroll 0 0 #ffffff;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9999; }
+.loader .loader_inner {
+    background-image: url("../images/preloader.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-posirion: center center;
+    background-color: #fff;
+    height: 60px;
+    width: 60px;
+    margin-top: -30px;
+    margin-left: -30px;
+    left: 50%;
+    top: 50%;
+    position: absolute; }
+.owlCarousel {
+    position: relative;
+}
+.owlCarousel .owl-prev, .owlCarousel .owl-prev {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 50px;
+    height: 0;
+    color: #9944be;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    font-size: 25px;
+}
+.owlCarousel .owl-prev i {
+    margin-left: -3px;
+}
+.owlCarousel .owl-next i {
+    margin-left: 3px;
+}
+.owlCarousel .item {
+    height: 370px;
+}
+.slider_info {
+    padding-left: 75px;
+}

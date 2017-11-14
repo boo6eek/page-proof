@@ -1,0 +1,81 @@
+@font-face {
+    font-family: HelveticaNeueCyr-Black;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/HelveticaNeueCyr-Black.otf); }
+
+@font-face {
+    font-family: "HelveticaNeueCyr-BlackItalic";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/HelveticaNeueCyr-BlackItalic.otf") format("otf"); }
+
+@font-face {
+    font-family: HelveticaNeueCyr-Bold;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/HelveticaNeueCyr-Bold.otf) ; }
+
+@font-face {
+    font-family: "HelveticaNeueCyr-BoldItalic";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/HelveticaNeueCyr-BoldItalic.otf") format("otf"); }
+
+@font-face {
+    font-family: "HelveticaNeueCyr-Italic";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/HelveticaNeueCyr-Italic.otf") format("otf"); }
+
+@font-face {
+    font-family: HelveticaNeueCyr-Light;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/HelveticaNeueCyr-Light.otf); }
+
+@font-face {
+    font-family: "HelveticaNeueCyr-LightItalic";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/HelveticaNeueCyr-LightItalic.otf") format("otf"); }
+
+@font-face {
+    font-family: HelveticaNeueCyr-Medium;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/HelveticaNeueCyr-Medium.otf); }
+
+@font-face {
+    font-family: "HelveticaNeueCyr-Roman";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/HelveticaNeueCyr-Roman.otf") format("otf"); }
+
+
+@font-face {
+    font-family: HelveticaNeueCyr-Thin;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/HelveticaNeueCyr-Thin.otf) ; }
+
+
+@font-face {
+    font-family: "HelveticaNeueCyr-ThinItalic";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/HelveticaNeueCyr-ThinItalic.otf") format("otf"); }
+
+
+@font-face {
+    font-family: "HelveticaNeueCyr-UltraLight_0";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/HelveticaNeueCyr-UltraLight_0.otf") format("otf"); }
+
+@font-face {
+    font-family: "HelveticaNeueCyr-UltraLightItalic";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/HelveticaNeueCyr-UltraLightItalic.otf") format("otf"); }
+
